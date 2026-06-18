@@ -36,11 +36,12 @@
   color: white;
 }
 
-.content {
+.main-content {
   flex: 1;
   background: #f8fafc;
   padding: 24px;
   overflow-x: auto;
+  height: 100vh;
 }
 
 /* Mobile & Tablet */
@@ -72,7 +73,7 @@
     font-size: 14px;
   }
 
-  .content {
+  .main-content {
     padding: 16px;
   }
 }

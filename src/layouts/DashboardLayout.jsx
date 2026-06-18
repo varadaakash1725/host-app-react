@@ -14,7 +14,7 @@ export default function DashboardLayout() {
         </nav>
       </aside>
 
-      <main className="content">
+      <main className="main-content">
         <Outlet />
       </main>
     </div>
